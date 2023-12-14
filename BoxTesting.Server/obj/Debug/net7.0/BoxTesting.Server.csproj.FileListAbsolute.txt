@@ -41,3 +41,4 @@ C:\workspace\BoxTesting\BoxTesting.Server\bin\Debug\net7.0\Microsoft.IdentityMod
 C:\workspace\BoxTesting\BoxTesting.Server\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\workspace\BoxTesting\BoxTesting.Server\bin\Debug\net7.0\BouncyCastle.Crypto.dll
 C:\workspace\BoxTesting\BoxTesting.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\BoxTesting\BoxTesting.Server\obj\Debug\net7.0\BoxTesting.Server.sourcelink.json
