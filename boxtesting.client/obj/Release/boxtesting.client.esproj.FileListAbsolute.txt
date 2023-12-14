@@ -1,0 +1,1 @@
+C:\workspace\BoxTesting\boxtesting.client\obj\Release\boxtesting.client.esproj.CoreCompileInputs.cache

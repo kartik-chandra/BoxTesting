@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\published\kcbapitest.sashiimi.com</_PublishTargetUrl>
+    <History>True|2023-12-14T00:57:41.9306203Z;True|2023-12-14T06:36:09.4646243+06:00;True|2023-12-14T06:32:58.8802681+06:00;True|2023-12-14T06:29:28.9670156+06:00;True|2023-12-14T06:22:09.2900207+06:00;True|2023-12-14T05:53:31.7300478+06:00;True|2023-12-14T05:50:35.4984525+06:00;True|2023-12-14T05:47:55.5127856+06:00;True|2023-12-14T05:42:44.7163083+06:00;False|2023-12-14T05:42:15.5434341+06:00;True|2023-12-14T05:37:04.1646779+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
