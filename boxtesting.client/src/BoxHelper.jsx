@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const BoxHelper = () => {
     const [folderId, setFolderId] = useState('238550335179');
-    const [accessToken, setAccessToken] = useState('FI1p14QF8kX0SgrB4P3cZWIlwpByu9Ma');
+    const [accessToken, setAccessToken] = useState('5v4s74p8lKJ9AAYBqjpGfSACKoACSseQ');
     const [selectedFile, setSelectedFile] = useState(null);
     const [selectedFileSession, setSelectedFileSession] = useState(null);
     const [result, setResult] = useState('');
@@ -12,7 +12,6 @@ const BoxHelper = () => {
     const textStyle = {
         overflowWrap: 'break-word',
         maxWidth: '450px'
-
     };
     
     const handleFileChangeSession = (event) => {
